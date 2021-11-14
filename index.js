@@ -29,4 +29,4 @@ client.on('messageCreate' , message=>{
     }
 })
 
-client.login('ODc1OTczNDIwMTU4OTc2MDYw.YRdT0g.YVFeNGm5YXDyxdeZwbq4V7rwags')
+client.login('token')
